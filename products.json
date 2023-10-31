@@ -1,0 +1,32 @@
+[
+    {   
+        "id": 1,
+        "title": "Fideos Marolio",
+        "description": "fideos mostachol 500g",
+        "price": 500,
+        "thumbnail": "",
+        "code": "fideos123",
+        "stock": 100
+        
+    },
+    {   
+        "id": 2,
+        "title": "Azucar Ledesma",
+        "description": "Azucar tipo A 1kg",
+        "price": 900,
+        "thumbnail": "",
+        "code": "azucar123",
+        "stock": 120
+        
+    },
+    {   
+        "id": 3,
+        "title": "Aceite Cañuelas",
+        "description": "Aceite Cañuelas de Girasol 1 lt",
+        "price": 700,
+        "thumbnail": "",
+        "code": "aceite123",
+        "stock": 60
+        
+    }
+]
